@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282424373748",
+    "project_id": "medcar-cb857",
+    "storage_bucket": "medcar-cb857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282424373748:android:41cea4f773a89e906209a1",
+        "android_client_info": {
+          "package_name": "com.medcar.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu0apgia-Jb23c50bJGxqXDd9gZVTezps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
